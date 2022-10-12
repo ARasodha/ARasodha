@@ -9,7 +9,6 @@
 - 🌐 [Personal Website](https://arjunrasodha.com)
 - 💻 [Linkedin](https://linkedin.com/in/arjunrasodha)
 - 📫 [Email](arjunrasodha4@gmail.com)
-- 💼 Currently looking for my next opportunity.
 <!--
 **ARasodha/ARasodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
